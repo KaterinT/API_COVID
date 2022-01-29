@@ -1,0 +1,25 @@
+{
+  "name": "api_covid",
+  "version": "1.0.0",
+  "description": "A app that allows you to obtain live data on the total number of deceased and infected with COVID 19 in the world",
+  "main": "index.js",
+  "homepage":"https://github.com/KaterinT/API_COVID",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaterinT/API_COVID.git"
+  },
+  "keywords": ["COVID"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaterinT/API_COVID/issues"
+  },
+  "homepage": "https://github.com/KaterinT/API_COVID#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
